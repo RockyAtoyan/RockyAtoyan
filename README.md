@@ -1,5 +1,5 @@
 <h1 align='center'> Hi! :wave:</h1>
-<p align='center'>
+<h2 align='center'>
 FullStack Development
-</p>
+</h2>
 <p align='center'>For enquiries, reach out @rockyatoyan on <a href="https://t.me/rockyatoyan">Telegram</a>.</p>
